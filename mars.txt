@@ -1,4 +1,4 @@
 this is the first line.
 make a new line.
-third line. more information here.
+third line.
 fourth line.
